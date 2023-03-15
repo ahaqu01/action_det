@@ -81,7 +81,7 @@ pip install -v -e .  # or "python setup.py develop"
 
 **you can use it as submodule**
 
-在自己的项目目录下，git submodule add  https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/action_det.git
+在自己的项目目录下，git submodule add  https://github.com/ahaqu01/action_det.git
 
 便会在项目目录下下载到action_det相关代码
 
