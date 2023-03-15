@@ -1,0 +1,7 @@
+#mmaction2==0.20.0
+#mmcv_full==1.4.1
+numpy==1.20.2
+opencv-python==4.5.4.60
+opencv_contrib_python==4.5.4.60
+opencv-python-headless==4.5.4.60
+torch==1.8.0
